@@ -1,0 +1,7 @@
+Título: Conceitos Básicos de Computação em Nuvem
+
+A computação em nuvem transformou o modo como empresas e usuários armazenam dados e executam aplicações. Em vez de depender de infraestrutura local, organizações podem contratar serviços escaláveis de processamento, armazenamento e redes sob demanda. Essa abordagem reduz custos iniciais e permite maior flexibilidade no crescimento de sistemas digitais.
+
+Os principais modelos de serviço incluem IaaS, PaaS e SaaS. No IaaS, o cliente gerencia sistemas operacionais e aplicações em máquinas virtuais fornecidas pelo provedor. No PaaS, o foco está na plataforma de desenvolvimento, com ambientes pré-configurados. Já o SaaS oferece aplicações prontas para uso, como e-mail corporativo, ferramentas de gestão e softwares de colaboração.
+
+Também existem diferentes modelos de implantação, como nuvem pública, privada e híbrida. A pública é compartilhada entre diversos clientes, com alto potencial de escalabilidade. A privada oferece maior controle para organizações com requisitos específicos. A híbrida combina as duas abordagens, buscando equilibrar desempenho, custo e segurança. Assim, a nuvem se consolida como elemento estratégico para inovação e transformação digital.

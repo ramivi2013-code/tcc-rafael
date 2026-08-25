@@ -1,0 +1,9 @@
+Título: Qualidade de Dados em Mobilidade Urbana
+
+A qualidade de dados é um fator central para o planejamento e a operação do transporte coletivo nas cidades. Sistemas que utilizam bases abertas, como dados de linhas, horários e localização de veículos, dependem de informações consistentes para gerar análises confiáveis e apoiar a tomada de decisão pública. Em ambientes urbanos complexos, pequenos erros de cadastro podem produzir grandes distorções em indicadores de oferta, acessibilidade e cobertura territorial.
+
+No contexto brasileiro, a padronização de dados relacionados a ônibus tem sido estimulada por iniciativas que usam modelos como o GTFS e estruturas de avaliação inspiradas em normas internacionais de qualidade. Entre os critérios mais relevantes estão completude, consistência, atualidade e acurácia. Esses atributos permitem identificar falhas como rotas incompletas, horários incompatíveis com a operação real e registros duplicados.
+
+Avaliar a qualidade de dados também é essencial para melhorar a experiência do usuário. Aplicativos de consulta de horários, rastreamento de ônibus em tempo real e sistemas de integração tarifária dependem de bases confiáveis. Quando a qualidade é baixa, os resultados são incertos, o que reduz a confiança do passageiro no transporte coletivo.
+
+Assim, o desenvolvimento de métricas e ferramentas de diagnóstico para monitoramento contínuo é uma estratégia importante para municípios e operadores. Com indicadores bem definidos, torna-se possível priorizar correções, estimar impactos e promover ciclos de melhoria. Em resumo, a qualidade de dados não é apenas um requisito técnico, mas um componente estratégico para políticas públicas de mobilidade urbana mais eficientes.

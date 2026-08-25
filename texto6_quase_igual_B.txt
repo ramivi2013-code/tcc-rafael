@@ -1,0 +1,7 @@
+Título: Métricas de Similaridade e Correlação Textual
+
+A análise automática de documentos textuais é relevante tanto em ambientes acadêmicos quanto em aplicações corporativas. Métodos de Processamento de Linguagem Natural permitem transformar textos em vetores para aplicar métricas de interrelação. Dois procedimentos comuns são a representação por TF-IDF e a similaridade cosseno, que quantifica a proximidade lexical entre documentos.
+
+Para complementar a análise baseada em termos, pode-se empregar medidas estatísticas tradicionais. A correlação de Pearson aplicada sobre vetores de frequência de palavras fornece um indicador adicional sobre padrões de vocabulário compartilhado. O índice de Jaccard também contribui ao medir a sobreposição de conjuntos de termos relevantes.
+
+De modo mais recente, embeddings semânticos passaram a ser usados para comparar documentos sob uma perspectiva de significado. Como esses modelos capturam relações conceituais, eles detectam similaridade temática mesmo quando a escolha de palavras não é idêntica. Assim, uma abordagem híbrida que combina TF-IDF, Pearson e embeddings tende a produzir resultados mais sólidos e interpretáveis.

@@ -1,0 +1,7 @@
+Título: Avaliação de Similaridade entre Documentos
+
+A comparação automática de documentos textuais tem sido amplamente utilizada em contextos acadêmicos e profissionais. Técnicas de Processamento de Linguagem Natural permitem representar textos como vetores, possibilitando a aplicação de métricas quantitativas de interrelação. Entre os métodos mais usados estão a vetorização por TF-IDF e o cálculo de similaridade cosseno, que mede o grau de proximidade lexical entre dois documentos.
+
+Além da similaridade baseada em termos, é possível aplicar análises estatísticas clássicas para observar a correlação de padrões de uso de vocabulário. A correlação de Pearson entre vetores de frequência de termos fornece uma medida complementar que pode reforçar ou contrastar o resultado obtido com TF-IDF. Outro índice útil é o Jaccard, que avalia a sobreposição entre os conjuntos de palavras relevantes dos textos.
+
+Nos últimos anos, modelos de embeddings semânticos ampliaram a capacidade de comparação documental. Esses modelos capturam relações de significado, permitindo identificar proximidade temática mesmo quando os textos utilizam vocabulário diferente. Dessa forma, a combinação de TF-IDF e embeddings gera uma avaliação mais completa e robusta da interrelação entre documentos.

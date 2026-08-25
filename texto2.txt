@@ -1,0 +1,9 @@
+Título: Métricas e Análises para Dados de Transporte Coletivo
+
+As cidades modernas dependem cada vez mais de dados para organizar serviços de mobilidade urbana. Informações sobre rotas, paradas e horários de ônibus são usadas para mapear cobertura, estimar demanda e orientar ações de gestão. No entanto, a utilidade dessas análises está diretamente vinculada à qualidade dos dados disponíveis.
+
+A adoção de padrões como o GTFS facilita a integração entre operadores e plataformas digitais. Esse tipo de padronização, somado a métricas de qualidade, permite avaliar atributos como completude, consistência e atualidade. Quando esses critérios são medidos de forma sistemática, é possível detectar problemas operacionais e registrar desvios entre dados publicados e a execução real do serviço.
+
+Além disso, a construção de indicadores de qualidade ajuda a tornar mais transparente a relação entre empresas, governo e usuários. Bases abertas e bem estruturadas favorecem pesquisas acadêmicas, desenvolvimento de aplicações e auditorias públicas. Por outro lado, dados desatualizados ou inconsistentes impactam diretamente ferramentas de informação ao passageiro, prejudicando a confiabilidade do transporte coletivo.
+
+Portanto, iniciativas de avaliação e monitoramento devem ser incorporadas à rotina de gestão. O uso de painéis e relatórios de qualidade, aliados a processos de revisão periódica, contribui para uma visão mais precisa da mobilidade urbana. Com dados mais confiáveis, políticas públicas conseguem alinhar oferta e demanda e aprimorar a experiência dos cidadãos.
